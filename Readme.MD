@@ -1,8 +1,3 @@
-Here’s a complete `README.md` file for your Elasticsearch + Express.js search project, including setup, Docker, API usage, and testing instructions:
-
----
-
-````markdown
 # 🧠 Elasticsearch Product Search API
 
 This project is a simple **Product Search API** built with:
