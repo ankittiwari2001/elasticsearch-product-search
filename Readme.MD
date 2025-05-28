@@ -19,7 +19,7 @@ You can use this to learn or build on Elasticsearch search features like:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/elasticsearch-product-search.git
+https://github.com/ankittiwari2001/elasticsearch-product-search.git
 cd elasticsearch-product-search
 ````
 
